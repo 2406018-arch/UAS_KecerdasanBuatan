@@ -289,35 +289,36 @@ kelas tunggal yang mendominasi sebagian besar data.
 
 ## 4.3 Histogram Usia
 
-![Histogram usia](assets/03_histogram_usia.png)
+![Histogram usia] (<img width="889" height="590" alt="Image" src="https://github.com/user-attachments/assets/e57ec743-78e3-4ebb-b6be-ec01559bee39" />)
 
 Histogram membantu mengetahui rentang usia yang paling banyak muncul.
 Sebagian besar data berada pada kelompok usia dewasa muda.
 
 ## 4.4 Histogram Berat Badan
 
-![Histogram berat badan](assets/04_histogram_berat_badan.png)
+![Histogram berat badan] (<img width="889" height="590" alt="Image" src="https://github.com/user-attachments/assets/6857c87d-e95f-43dd-822d-1edbc31c907a" />)
 
 Berat badan memiliki variasi luas dan menjadi salah satu fitur penting
 dalam membedakan kelas target.
 
 ## 4.5 Histogram Aktivitas Fisik
 
-![Histogram aktivitas fisik](assets/05_histogram_aktivitas_fisik.png)
+![Histogram aktivitas fisik] (<img width="889" height="590" alt="Image" src="https://github.com/user-attachments/assets/e233a9e9-10de-4b12-ba36-50c7e593f903" />)
 
 Fitur `FAF` menggambarkan frekuensi aktivitas fisik. Nilai yang lebih tinggi
 menunjukkan aktivitas yang lebih sering.
 
 ## 4.6 Boxplot Berat Badan per Kelas
 
-<img width="1089" height="590" alt="image" src="https://github.com/user-attachments/assets/d5fe1db4-59ef-4390-9da2-c20d08682f44" />
+<img width="1289" height="690" alt="Image" src="https://github.com/user-attachments/assets/5c7fb6a6-ac91-4ddd-8cbd-6f859872b06e" />
 
 Median berat badan cenderung meningkat seiring meningkatnya kelas target.
 Pola tersebut menunjukkan bahwa berat badan menjadi pemisah penting.
 
 ## 4.7 Heatmap Korelasi
 
-![Heatmap korelasi](assets/07_heatmap_korelasi.png)
+![Heatmap korelasi] (<img width="950" height="790" alt="Image" src="https://github.com/user-attachments/assets/0d387156-2da9-4758-87dd-f9c16bf87ea8" />
+)
 
 Heatmap menunjukkan hubungan linear antarfitur numerik. Korelasi tidak
 menunjukkan hubungan sebab akibat, tetapi membantu menemukan fitur yang
@@ -325,7 +326,7 @@ berhubungan.
 
 ## 4.8 Scatter Plot Tinggi dan Berat Badan
 
-![Scatter tinggi berat](assets/08_scatter_tinggi_berat.png)
+![Scatter tinggi berat] (<img width="988" height="690" alt="Image" src="https://github.com/user-attachments/assets/2914dcbd-7fdf-43cc-86ff-43cd31d26fa8" />)
 
 Kombinasi tinggi dan berat badan membentuk kelompok yang cukup jelas
 berdasarkan kelas target. Hal ini membantu menjelaskan mengapa model
