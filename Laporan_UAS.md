@@ -691,16 +691,7 @@ dan membandingkan performanya secara objektif menggunakan data uji.
 
 # 9. Referensi
 
-1. Blüher, M. (2019). Obesity: Global epidemiology and pathogenesis. *Nature Reviews Endocrinology, 15*(5), 288–298. https://doi.org/10.1038/s41574-019-0176-8
-2. Cañas Cervantes, R., & Martinez Palacio, U. (2020). Estimation of obesity levels based on computational intelligence. *Informatics in Medicine Unlocked, 21*, 100472. https://doi.org/10.1016/j.imu.2020.100472
-3. De-La-Hoz-Correa, E., Mendoza-Palechor, F. E., De-La-Hoz-Manotas, A., Morales-Ortega, R. C., & Sarmiento-Hernández, B. A. (2019). Obesity level estimation software based on decision trees. *Journal of Computer Science, 15*(1), 67–77. https://doi.org/10.3844/jcssp.2019.67.77
-4. DeGregory, K. W., Kuiper, P., DeSilvio, T., Pleuss, J. D., Miller, R., Roginski, J. W., Fisher, C. B., Harness, D., Viswanath, S., Heymsfield, S. B., Dungan, I., & Thomas, D. M. (2018). A review of machine learning in obesity. *Obesity Reviews, 19*(5), 668–685. https://doi.org/10.1111/obr.12667
-5. Gozukara Bag, H. G., Yagin, F. H., Gormez, Y., González, P. P., Colak, C., Gülü, M., Badicu, G., & Ardigò, L. P. (2023). Estimation of obesity levels through the proposed predictive approach based on physical activity and nutritional habits. *Diagnostics, 13*(18), 2949. https://doi.org/10.3390/diagnostics13182949
-6. Görmez, Y., Yagin, F. H., Yagin, B., Aygun, Y., Boke, H., Badicu, G., De Sousa Fernandes, M. S., Alkhateeb, A., Al-Rawi, M. B. A., & Aghaei, M. (2025). Prediction of obesity levels based on physical activity and eating habits with a machine learning model integrated with explainable artificial intelligence. *Frontiers in Physiology, 16*, 1549306. https://doi.org/10.3389/fphys.2025.1549306
-7. Mendoza Palechor, F., & de la Hoz Manotas, A. (2019). Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico. *Data in Brief, 25*, 104344. https://doi.org/10.1016/j.dib.2019.104344
-8. Quiroz, J. P. S. (2022). Estimation of obesity levels based on dietary habits and physical condition using computational intelligence. *Informatics in Medicine Unlocked, 29*, 100901. https://doi.org/10.1016/j.imu.2022.100901
-9. Thamrin, S. A., Arsyad, D. S., Kuswanto, H., Lawi, A., & Nasir, S. (2021). Predicting obesity in adults using machine learning techniques: An analysis of Indonesian Basic Health Research 2018. *Frontiers in Nutrition, 8*, 669155. https://doi.org/10.3389/fnut.2021.669155
-10. Zhou, X., Chen, L., & Liu, H.-X. (2022). Applications of machine learning models to predict and prevent obesity: A mini-review. *Frontiers in Nutrition, 9*, 933130. https://doi.org/10.3389/fnut.2022.933130
+
 
 ---
 
