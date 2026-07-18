@@ -282,7 +282,7 @@ Namun, proses evaluasi tetap menggunakan Precision, Recall, dan F1-score.
 
 ## 4.2 Persentase Kelas
 
-![Persentase kelas](<img width="791" height="674" alt="Image" src="https://github.com/user-attachments/assets/ca1ebadf-35f2-4945-b431-4d62eba4e913" />)
+![Persentase kelas] (<img width="791" height="674" alt="Image" src="https://github.com/user-attachments/assets/ca1ebadf-35f2-4945-b431-4d62eba4e913" />)
 
 Diagram lingkaran memperlihatkan persentase tujuh kelas. Tidak terdapat
 kelas tunggal yang mendominasi sebagian besar data.
