@@ -311,7 +311,7 @@ menunjukkan aktivitas yang lebih sering.
 
 ## 4.6 Boxplot Berat Badan per Kelas
 
-![Boxplot berat](assets/06_boxplot_berat_per_kelas.png)
+<img width="1089" height="590" alt="image" src="https://github.com/user-attachments/assets/d5fe1db4-59ef-4390-9da2-c20d08682f44" />
 
 Median berat badan cenderung meningkat seiring meningkatnya kelas target.
 Pola tersebut menunjukkan bahwa berat badan menjadi pemisah penting.
