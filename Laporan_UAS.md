@@ -332,15 +332,7 @@ Kombinasi tinggi dan berat badan membentuk kelompok yang cukup jelas
 berdasarkan kelas target. Hal ini membantu menjelaskan mengapa model
 Decision Tree memperoleh performa tinggi.
 
-## 4.9 Deteksi Outlier
-
-![Outlier IQR](assets/09_outlier_iqr.png)
-
-Metode IQR mendeteksi **699 baris** yang memiliki minimal satu
-nilai ekstrem. Nilai ekstrem tidak langsung dihapus karena dapat
-merepresentasikan variasi data yang masih valid.
-
-## 4.10 Insight Awal EDA
+## 4.9 Insight Awal EDA
 
 1. Distribusi kelas relatif seimbang.
 2. Tinggi dan berat badan membentuk pola yang jelas terhadap target.
