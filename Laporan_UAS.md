@@ -691,7 +691,11 @@ dan membandingkan performanya secara objektif menggunakan data uji.
 
 # 9. Referensi
 
-
+[1] H. G. Gozukara Bag, F. H. Yagin, Y. Gormez, P. P. González, C. Colak, M. Gülü, G. Badicu, and L. P. Ardigò, "Estimation of obesity levels through the proposed predictive approach based on physical activity and nutritional habits," Diagnostics, vol. 13, no. 18, p. 2949, 2023, doi: 10.3390/diagnostics13182949.
+[2] M. Iqbal, Lisnawanty, W. S. Dharmawan, and R. Septian, "Prediction of obesity categories based on physical activity using machine learning algorithms," J. Comput. Netw. Archit. High Perform. Comput., vol. 6, no. 3, pp. 1025–1034, 2024, doi: 10.47709/cnahpc.v6i3.4053.
+[3] A. Khikam, N. M. Anggadimas, and M. Udin, "Implementasi decision tree untuk klasikasi obesitas," JATI (Jurnal Mahasiswa Teknik Informatika), vol. 9, no. 3, pp. 3946–3952, 2025.
+[4] A. I. Putri, N. A. Husna, N. M. Cia, M. A. Arba, N. R. Aisyi, C. H. Pramesthi, and A. S. Irdayusman, "Implementation of K-Nearest Neighbors, Naïve Bayes Classifier, Support Vector Machine and Decision Tree Algorithms for obesity risk prediction," Public Res. J. Eng. Data Technol. Comput. Sci., vol. 2, no. 1, pp. 26–33, 2024, doi: 10.57152/predatecs.v2i1.1110.
+[5] S. A. Utiarahman and A. M. M. Pratama, "Analisis perbandingan KNN, SVM, decision tree dan regresi logistik untuk klasifikasi obesitas multi kelas," KLIK: Kajian Ilmiah Informatika dan Komputer, vol. 4, no. 6, pp. 3137–3146, 2024, doi: 10.30865/klik.v4i6.1871.
 
 ---
 
