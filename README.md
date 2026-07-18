@@ -242,4 +242,3 @@ UAS-KecerdasanBuatan/
 | No. | Nama | NIM |
 |---:|---|---|
 | 1 | **Hilma Putri Andriyani Lestari** | **2406018** |
-| 2 | **-** | **2406018** |
